@@ -6,6 +6,7 @@ Create a new branch is quick
 no this is third 
 =======
 yes this is second dev
+Git fix something
 
 >>>>>>> dev
 
